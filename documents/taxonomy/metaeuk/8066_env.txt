@@ -1,0 +1,16 @@
+c1_top_contigs
+c2_top_contigs
+c3_top_contigs
+c3_top_qiagen_contigs
+e1_top_contigs
+e2_top_contigs
+e3_top_contigs
+e3_top_qiagen_contigs
+m1_top_contigs
+m2_top_contigs
+m3_top_contigs
+m3_top_qiagen_contigs
+n1_top_contigs
+n2_top_contigs
+n3_top_contigs
+n3_top_qiagen_contigs

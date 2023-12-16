@@ -1,0 +1,7 @@
+analyses/
+busco/
+genomes/
+logs/
+problematic_otus/
+sequences/
+surafrica_metagenomes_loci/*
